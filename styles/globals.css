@@ -251,6 +251,7 @@ text-align: end;
   left: 8%; */
   top: -25%;
   left: 25%;
+  object-fit:contain;
 }
 .banner-desc .right{
   line-height: 1.4;
